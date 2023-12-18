@@ -1,4 +1,4 @@
- const key  = "uV9vpNtYLw_DqRrSsEtv0UKhV77HK-4jpgluyt8BZ7I";
+
 const  searchbox = document.getElementById("searchbox");
 const  submit2  =  document.getElementById("submit");
 const more2 =  document.getElementById("more2");
